@@ -1,0 +1,46 @@
+.custom-account{
+   display: flex;
+   justify-content: center;
+   font-style: italic;
+   color: rgb(17, 186, 253);
+}
+.custom-facebook{
+   background-color:#1b4ea7 !important;
+   border-color: transparent !important;
+   box-shadow: 0 0.1rem 0 0 rgba(0,0,0,.1) !important;
+}
+.custom-google{
+   background-color:#cf0000 !important;
+   border-color: transparent !important;
+   box-shadow: 0 0.1rem 0 0 rgba(0,0,0,.1) !important;
+}
+.field-input{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.button-opacity{
+   opacity: 0.9;
+}
+.button-opacity:hover{
+   opacity: 1;
+}
+.label-sign-in-up{
+   color: black;
+   font-weight: 400;
+}
+.sign-up-in-up{
+   display: flex !important;
+   justify-content: flex-end ;
+   margin-top: 20px;
+}
+.form-field{
+   width: 200px;
+   height: 20px;
+   border: 1px solid black;
+}
+.ant-modal-header {
+   display: flex;
+   justify-content: center;
+   color: red !important;
+   font-weight: 800;
+}
